@@ -10,4 +10,5 @@ def hello_world():  # put application's code here
 
 if __name__ == '__main__':
     print('eqwewq')
+    print('weqewqee')
     app.run()
