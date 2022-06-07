@@ -10,8 +10,9 @@ class HelloWorld(Resource):
         return {'name': '123'}
 
 
+class Xu:
+    pass
+
+
 if __name__ == '__main__':
     app.run(debug=True)
-
-
-
